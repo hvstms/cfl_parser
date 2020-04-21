@@ -1,2 +1,2 @@
-# cfl_parser
-A context free language parser.
+# CLF
+A context free language parser with the basic arithmetic lagnguage.
